@@ -1,0 +1,3 @@
+# wrangler preview / ローカル CF 互換モード用（cp .dev.vars.example .dev.vars）
+ADMIN_BASIC_USER=admin
+ADMIN_BASIC_PASS=change-me
